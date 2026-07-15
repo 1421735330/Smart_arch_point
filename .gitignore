@@ -1,0 +1,24 @@
+# Keil MDK build directories
+/Hardware/MDK-ARM/Smart_Place_Point/
+Objects/
+Listings/
+
+# STM32 build directories
+Debug/
+Release/
+build/
+
+# Compiler, linker, and image outputs
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lnp
+*.lst
+*.dep
+*.build_log.htm
+
